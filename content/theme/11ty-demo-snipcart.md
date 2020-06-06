@@ -1,5 +1,5 @@
 ---
-title: 'Eleventy 2 Snipcart'
+title: 'Application Portfolio Management'
 github: https://github.com/snipcart/11ty-demo-snipcart
 demo: https://snipcart-11ty-demo.netlify.com/
 author: Snipcart
